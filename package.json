@@ -1,0 +1,19 @@
+{
+  "name": "mybotdiscord",
+  "version": "1.0.0",
+  "description": "bot mpall",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.0",
+    "ffmpeg-static": "^4.2.7",
+    "fs": "^0.0.1-security",
+    "opusscript": "^0.0.7",
+    "ytdl-core": "^4.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bork Bretzel",
+  "license": "ISC"
+}
